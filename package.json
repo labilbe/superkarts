@@ -1,0 +1,10 @@
+{
+  "name": "superkarts",
+  "version": "1.0.0",
+  "description": "Course de karts en mode 7 dans le navigateur, hommage au SuperKarts de 1995",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 1995"
+  },
+  "license": "MIT"
+}
